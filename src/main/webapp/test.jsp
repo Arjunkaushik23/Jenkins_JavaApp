@@ -8,5 +8,7 @@
 </head>
 <body>
 <p>This is the test page of this file </p>
+<h1>This is the header of the page </h1>
+<h2>Sorry about that :) </h2>
 </body>
 </html>
